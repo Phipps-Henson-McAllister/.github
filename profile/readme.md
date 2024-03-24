@@ -1,4 +1,4 @@
-# Welcome to PHM Chartered Accountants 📊
+# Welcome to Phipps Henson McAllister 📊
 
 Welcome to the official GitHub organization page of PHM, a leading Chartered Accountancy firm based in Northampton, England. Since our establishment in 1993, we have been at the forefront of providing exceptional business services, including audit and assurance, tax advisory, financial planning, and bespoke consultancy services tailored to our clients' unique needs.
 
@@ -26,7 +26,7 @@ We're more than just accountants; we're your partners in navigating the complexi
 
 - **Email:** [info@phm-accountants.co.uk](mailto:info@phm-accountants.co.uk)
 - **Website:** [www.phm-accountants.co.uk](https://www.phm-accountants.co.uk)
-- **LinkedIn:** [PHM Chartered Accountants](#)
+- **LinkedIn:** [PHM Chartered Accountants](https://www.linkedin.com/company/phipps-henson-mcallister/)
 
 ## Contributing
 
